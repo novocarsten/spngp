@@ -1,3 +1,7 @@
+# Github Yevgen "Eugene" Zainchkovskyy / SPNGP
+This is a fork of the implementation at https://github.com/eugene/spngp
+All credits to Yevgen Zainchkovskyy.
+
 # :high_brightness: SPNGP
 
 This is a Python implementation of the SPNGP model proposed in
